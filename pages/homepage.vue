@@ -1,14 +1,14 @@
 <template>
   <!-- Content Box -->
   <div class="">
-    <div class="hero min-h-screen bg-base-200 mb-12">
-      <div class="hero-content text-center mx-auto w-full">
-        <div class="flex lg:flex-row">
+    <div class="hero min-h-screen bg-base-100 mb-12">
+      <div class="hero-content text-center mx-auto min-w-full">
+        <div class="flex lg:flex-row w-full">
           <div>
             <div
-              class="bg-dk-blue-shade-1 border-dk-blue-shade-2 border-4 rounded-lg text-5xl p-4 w-1/2"
+              class="bg-base-content border-primary-focus border-4 rounded-lg text-5xl p-4 w-full"
             >
-              <h1 class="font-filson font-extrabold text-dl-white">
+              <h1 class="font-filson font-extrabold text-dl-white justify-center">
                 Take Control of <span class="text-accent">PDF</span> Workflows
               </h1>
             </div>
